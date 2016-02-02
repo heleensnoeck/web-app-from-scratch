@@ -1,7 +1,7 @@
 
 (function() {
  
-        'Use Strict';
+        'use Strict';
         
        var sandbox = "sandbox";
        var linear = "linear";
